@@ -1,4 +1,3 @@
-# ccna-lernnotizen
 # CCNA Lernnotizen 🌐
 
 Meine Zusammenfassungen und Übungen zur Vorbereitung auf die CCNA-Prüfung.
